@@ -73,7 +73,7 @@ Após o treinamento por 10 épocas:
 
 - Acurácia no conjunto de validação: 97.18% (dependendo do dataset e dos parâmetros).
 
-!(https://prnt.sc/xnynUEjuRUaM)
+![Resultado](resultado.png)
 
 
 ---
