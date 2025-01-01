@@ -71,7 +71,10 @@ O projeto é composto pelas seguintes etapas:
 
 Após o treinamento por 10 épocas:
 
-- Acurácia no conjunto de validação: 80-90% (dependendo do dataset e dos parâmetros).
+- Acurácia no conjunto de validação: 97.18% (dependendo do dataset e dos parâmetros).
+
+!(https://prnt.sc/xnynUEjuRUaM)
+
 
 ---
 

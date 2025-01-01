@@ -87,7 +87,10 @@ model.compile(
 )
 
 # Treinamento do modelo
-history = model.fit(train_dataset, epochs=10, validation_data=validation_dataset)
+history = model.fit(train_dataset, epochs=10, validation_data=validation_dataset)m  çen
+
+
+enzo
 
 # Avaliação do modelo
 loss, accuracy = model.evaluate(validation_dataset)
